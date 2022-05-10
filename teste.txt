@@ -10,3 +10,4 @@ Passos para integrar a nova branch com a master:
 acho que me perdi nas anotações
 
 Nova alteração 2.5
+Nova alteração 2
