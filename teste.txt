@@ -8,3 +8,5 @@ Passos para integrar a nova branch com a master:
 2-) usar o comando merge junto com o nome da branch que irá ceder as modificações
 
 acho que me perdi nas anotações
+
+Nova alteração 2.5
